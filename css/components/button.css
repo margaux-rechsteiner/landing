@@ -1,0 +1,41 @@
+.btn-blue {
+	background-color: #1D4D4F;
+	padding: 10px;
+	border-radius: 5px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Josefin Sans', sans-serif;
+	margin: 250px;
+}
+.btn-purple {
+	background-color: #6BA8A9;
+	padding: 10px;
+	border-radius: 5px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Galada', cursive;
+}
+.btn-red {
+	background-color: #6BA8A9;
+	padding: 10px;
+	border-radius: 5px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Galada', cursive;
+}
+.btn-yellow {
+	background-color: #6BA8A9;
+	padding: 10px;
+	border-radius: 5px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Galada', cursive;
+}
+.btn-winter {
+	background-color: #6BA8A9;
+	padding: 10px;
+	border-radius: 5px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Galada', cursive;
+}
